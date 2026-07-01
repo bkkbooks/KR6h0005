@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6h0005/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無言童子經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T13/T13n0401.xml
+    old_id: T13n0401
+hash: sha256:883d19a26a2f36795fb6099fe5e30ced8885bd119d0bf7222df9bf4a71bd6057
