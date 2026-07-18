@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6h0005_001-T.yaml, hash: 'sha256:5ad97cb1e8104f19791fd5d15d27c5d8de17c07b21574453d07c4c0ae1a2566c'}
   - {seq: 2, filename: KR6h0005_002-T.yaml, hash: 'sha256:89dc7850bbb092fa3a05981396d66a6cd18121d6d5517dedc344e796846c5f3c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6h0005_000-T.markers.yaml, hash: 'sha256:95783ea17c161d43f9256a761f4240a170f36fcfb612d868931914b5f01af7f6'}
+  - {seq: 0, role: markers, filename: assets/KR6h0005_000-T.markers.yaml, hash: 'sha256:014fab3a6c2b6270ab4e3d8fa6b53890ce89f153bf5a640b2b6e7e67505802ab'}
   - {seq: 1, role: markers, filename: assets/KR6h0005_001-T.markers.yaml, hash: 'sha256:964a784d48c538c3c879a786433d18769b2744c289b83987214deb53277c1448'}
   - {seq: 2, role: markers, filename: assets/KR6h0005_002-T.markers.yaml, hash: 'sha256:278ec1dc162c6a4a308a63b4f51a41a86b7718d241d7650fcca31f6c725b735f'}
 table_of_contents:
@@ -47,4 +47,4 @@ table_of_contents:
   label: 佛說無言童子經卷下
   type: juan
   level: 1
-hash: sha256:94e80901f66b471b2721be73eac8cf9eb4bd9adb215e8f90bb5c3a2f667664f0
+hash: sha256:e54c9fca54c1480e8c5aefd97ed845c5ac49592f9a984d024ccd4040463b047a
